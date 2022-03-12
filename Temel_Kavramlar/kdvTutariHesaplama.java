@@ -2,7 +2,7 @@ package Temel_Kavramlar;
 
 import java.util.Scanner;
 
-public class kdvTutarıHesaplama {
+public class kdvTutariHesaplama {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
 
