@@ -12,6 +12,7 @@ public class kdvTutariHesaplama {
         tutar=input.nextDouble();
 
         kdv = (tutar<1000)? 0.18 : 0.08;
+        
         System.out.println("KDV'siz Fiyat :" + tutar);
         System.out.println("KDV Oranı :" + kdv);
         System.out.println("KDV'li Fiyat :" + (tutar*(1+kdv)));
