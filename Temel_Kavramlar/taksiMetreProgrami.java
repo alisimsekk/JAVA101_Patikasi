@@ -19,7 +19,7 @@ public class taksiMetreProgrami {
 
         odenecek = (tutar<20) ? 20 : tutar;
 
-        System.out.println("Ödemeniz :" + odenecek + "TL");
+        System.out.println("Ödemeniz :" + odenecek + " TL");
 
     }
 }
