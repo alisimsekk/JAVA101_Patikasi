@@ -13,9 +13,7 @@ public class girilenSayiyaKadarUSalma {
             }
                 for(j=1;j<=k;j*=5){
                     System.out.println(j);
-                }
-            
-        
+                }       
     }
     
 }
