@@ -19,6 +19,6 @@ public class ciftSayilarToplami {
             ciftmi = false;
         }while(ciftmi);
 
-        System.out.println("Girilen sayıların toplamı : "+ toplam);
+        System.out.println("Girilen çift sayıların toplamı : "+ toplam);
     }
 }    
