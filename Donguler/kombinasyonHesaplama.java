@@ -2,7 +2,7 @@ package Donguler;
 import java.util.Scanner;
 
 import javax.sound.midi.Soundbank;
-public class faktoriyelHesaplama {
+public class kombinasyonHesaplama {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int sonuc1=1, sonuc2=1, sonuc3=1, r=0, n=0, j=1, k=1;
