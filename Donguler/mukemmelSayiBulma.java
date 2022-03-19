@@ -1,8 +1,5 @@
 package Donguler;
-import java.net.SocketTimeoutException;
 import java.util.Scanner;
-
-import javax.sound.midi.Soundbank;
 public class mukemmelSayiBulma {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
