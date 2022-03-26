@@ -1,13 +1,13 @@
 package Siniflar.Boks_Oyunu;
 
-public class fighter {
+public class Fighter {
     String name;
     int damage;
     int health;
     int weight;
     double dodge;
 
-    fighter(String name, int damage, int health, int weight, double dodge){
+    Fighter(String name, int damage, int health, int weight, double dodge){
         this.name = name;
         this.damage = damage;
         this.health = health;
@@ -20,7 +20,7 @@ public class fighter {
         }
     }
 
-    public int hit (fighter foe){
+    public int hit (Fighter foe){
         System.out.println("/-/-/-/-/-/-/-/-");
         System.out.println(this.name + " => " + foe.name + " " + this.damage + " hasar verdi.");
 

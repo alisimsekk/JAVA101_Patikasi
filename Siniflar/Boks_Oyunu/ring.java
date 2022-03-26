@@ -1,12 +1,12 @@
 package Siniflar.Boks_Oyunu;
 
-public class ring {
-    fighter b1;
-    fighter b2;
+public class Ring {
+    Fighter b1;
+    Fighter b2;
     int minWeight;
     int maxWeight;
     double randVal =  Math.random() * 100;
-    public ring(fighter b1, fighter b2, int minWeight, int maxWeight){
+    public Ring(Fighter b1, Fighter b2, int minWeight, int maxWeight){
         
         if(randVal<50){
             this.b1 = b1;
