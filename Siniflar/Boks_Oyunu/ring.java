@@ -65,5 +65,6 @@ public class Ring {
         System.out.println("------------");
         System.out.println(b1.name + " Kalan Can :" + b1.health);
         System.out.println(b2.name + " Kalan Can :" + b2.health);
+        
     }
 }
