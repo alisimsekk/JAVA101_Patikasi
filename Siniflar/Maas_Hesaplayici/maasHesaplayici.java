@@ -6,5 +6,4 @@ public class maasHesaplayici {
         
         System.out.println(Ahmet);; 
     }
-    
-}
+} // www.patika.dev
