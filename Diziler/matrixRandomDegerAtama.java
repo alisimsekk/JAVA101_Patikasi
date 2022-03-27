@@ -1,5 +1,7 @@
 package Diziler;
 
+import java.util.Arrays;
+
 public class matrixRandomDegerAtama {
     public static void main(String [] args){
         int [][] matrix = new int [5][4];
@@ -16,4 +18,4 @@ public class matrixRandomDegerAtama {
             System.out.println();
         }
     }
-}
+} // www.patika.dev
