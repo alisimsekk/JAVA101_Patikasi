@@ -1,19 +1,14 @@
 package Diziler;
 
-import java.util.Scanner;
-
-public class matrisOlusturma {
+public class matrixRandomDegerAtama {
     public static void main(String [] args){
-        int [][] matrix = new int [3][3];
-        Scanner input = new Scanner(System.in);
+        int [][] matrix = new int [5][4];
 
         for(int i = 0; i<matrix.length;i++){
             for(int j = 0; j<matrix[i].length;j++){
-                System.out.print(i+1 + ". satır " + (j+1) + ". sütun değerini giriniz : ");
-                matrix [i][j] = input.nextInt();
+                matrix [i][j] = (int) (Math.random()*100);
             }
         }
-    
         for(int i=0 ; i<matrix.length ;i++){
             for(int j=0; j<matrix[i].length; j++){
                 System.out.print(matrix[i][j] +" ");
@@ -21,4 +16,4 @@ public class matrisOlusturma {
             System.out.println();
         }
     }
-} // www.patika.dev
+}
