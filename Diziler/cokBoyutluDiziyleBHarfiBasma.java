@@ -26,4 +26,4 @@ public class cokBoyutluDiziyleBHarfiBasma {
         }
     }
     
-}
+} //www.patika.dev
