@@ -29,5 +29,4 @@ public class diziElemanlariFrekansHesaplama {
             count=1;
         }
     }
-    
-}
+} //www.patika.dev
