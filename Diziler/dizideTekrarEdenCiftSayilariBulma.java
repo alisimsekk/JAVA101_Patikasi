@@ -32,4 +32,4 @@ public class dizideTekrarEdenCiftSayilariBulma {
         System.out.println(Arrays.toString(dublicate));
     }
     
-}
+} // www.patika.dev 
