@@ -28,7 +28,6 @@ public class kucukVeBuyukDegeriBulma {
                 break;
             }
         }
-
         System.out.println("Girilen sayıdan küçük en yakın sayı : " + x);
         System.out.println("Girilen sayıdan büyük en yakın sayı : " + y);
     }
