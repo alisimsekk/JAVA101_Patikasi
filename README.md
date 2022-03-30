@@ -1,1 +1,1 @@
-JAVA101 patikasındaKİ örneklere ait programlarımı içeren repolardır.
+JAVA101 patikasındaki örneklere ait programlarımı içeren repolardır.
