@@ -32,4 +32,4 @@ public class matrisTranspozuAlma {
             System.out.println();
         }
     }
-}
+} //www.patika.dev
